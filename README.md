@@ -2,11 +2,10 @@
 
 ### Who I Am 😎
 
-- 👨‍👩‍👦 🏻 A husband to my beautiful wife and a father having fun with my crazy toddler 😜
-- 👨🏻‍💻 A software engineer of 7+ years, currently having fun working on the frontend at [PracticeGenius](https://practicegenius.com/)
-- 👨🏻‍🎓 A graduate from Dixie State University in Computer Information Technology w/ emphasis on Computer Science
-- 👨🏻‍🏫 A mentor/consultant helping React Native developers build apps
-- 💵 A side-hustler, building cool stuff in my spare time
+- 👨‍👩‍👦 A husband to my beautiful wife and a father of a crazy toddler 😜
+- 👨🏻‍💻 A software engineer of 7+ years, currently building interesting things on the frontend at [PracticeGenius](https://practicegenius.com/)
+- 👨🏻‍🏫 A React Native consultant
+- 📡 A remote work devotee who's been working remotely for 100% of his career
 
 ### My Stack 💻
 
