@@ -22,4 +22,4 @@
 
 #### Animated Tab Bar in React Native
 
-<img src="https://raw.githubusercontent.com/kaseyjcowley/kaseyjcowley/master/animated_tab_bar.gif" width="30px">
+<img src="https://raw.githubusercontent.com/kaseyjcowley/kaseyjcowley/master/animated_tab_bar.gif" />
