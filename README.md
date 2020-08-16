@@ -17,3 +17,9 @@
 
 #### Tools
 [![Webstorm](https://img.shields.io/static/v1?label=&message=Webstorm&color=black&style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/) [![Yarn](https://img.shields.io/static/v1?label=&message=Yarn&color=2C8EBB&style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/) [![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=black&style=for-the-badge&logo=notion&logoColor=white)](https://notion.so) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io) [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&style=for-the-badge&logo=cypress&logoColor=white)](https://cypress.io) [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Github](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+### Showcase 💁‍♂️
+
+#### Animated Tab Bar in React Native
+
+<img src="https://raw.githubusercontent.com/kaseyjcowley/kaseyjcowley/master/animated_tab_bar.gif" width="30px">
