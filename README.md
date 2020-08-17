@@ -23,3 +23,7 @@
 #### Animated Tab Bar in React Native
 
 <img src="https://raw.githubusercontent.com/kaseyjcowley/kaseyjcowley/master/animated_tab_bar.gif" />
+
+#### Browser Automation Web Scraper
+
+Hard to really showcase this one since it's a Node script running headless Chrome via Puppeteer. I built this to scrape Swappa's website for stock of a certain phone I am interested in buying. It runs on Heroku every hour and emails me the latest list of the available phones in stock. Here's to hoping it allows me to snag that phone I'm wanting :wink:. You can see the source code [here](https://github.com/kaseyjcowley/tmo-scraper).
